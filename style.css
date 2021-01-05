@@ -1,0 +1,49 @@
+body{
+                 font-family: 'Roboto', sans-serif;
+                 margin: 0px;
+}
+h1{
+                 font-size: 50px;
+}
+h2{
+                 font-size: 40px;
+}
+.name1-highlight{
+                 color: rgba(2, 2, 29, 0.74);
+}
+.name2-highlight{
+                 color: rgb(248, 90, 33);
+}
+.half-width{
+                 width: 40%;
+                 float: left;
+                 margin-left: 5%;
+                 padding-left: 3%;
+
+}
+.half-width img{
+                 width: 100%;
+
+}
+.top-banner{
+                 background-image: url(images/background1.png);
+                 boarde: 1px solid white;
+                 background-repeat: round;
+                 
+}
+section{
+                 height: 450px;
+}
+.first-button{
+                 text-decoration: none;
+                 background-image: linear-gradient( 55deg, salmon, tomato);
+                 padding: 10px 20px;
+                 border-radius: 8px;
+                 color: white;
+                 font-weight: 800;
+}
+.my-about{
+                 background-image: url(images/background1.png);
+                 boarde: 1px solid white;
+                 background-repeat: round;
+}
